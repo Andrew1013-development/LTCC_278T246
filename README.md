@@ -15,6 +15,6 @@ eviel may use this as his material to learn C (even though the 10th grade IT pro
 
 ## timeline
 - Wednesday, 24/8/2022 (B1) : TH1, TH2, BT1
-- Friday, 26/8/2022 (B2) : BT2,
+- Friday, 26/8/2022 (B2) : BT2, BT3, BT4, BT5, BT6, BT7
 - Monday, 29/8/2022 (B3) :
 - Wednesday, 31/8/2022 (B4)
