@@ -1,0 +1,4 @@
+﻿  BT2_26082022.cpp
+D:\TRAN VIET HUY\BT2_26082022\BT2_26082022\BT2_26082022.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\TRAN VIET HUY\BT2_26082022\BT2_26082022\BT2_26082022.cpp(9,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  BT2_26082022.vcxproj -> D:\TRAN VIET HUY\BT2_26082022\Debug\BT2_26082022.exe
