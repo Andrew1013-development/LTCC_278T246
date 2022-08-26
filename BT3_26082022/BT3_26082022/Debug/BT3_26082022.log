@@ -1,0 +1,5 @@
+﻿  BT3_26082022.cpp
+D:\TRAN VIET HUY\BT3_26082022\BT3_26082022\BT3_26082022.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\TRAN VIET HUY\BT3_26082022\BT3_26082022\BT3_26082022.cpp(12,55): warning C4244: '+=': conversion from 'double' to 'short', possible loss of data
+D:\TRAN VIET HUY\BT3_26082022\BT3_26082022\BT3_26082022.cpp(7,8): warning C4101: 'current': unreferenced local variable
+  BT3_26082022.vcxproj -> D:\TRAN VIET HUY\BT3_26082022\Debug\BT3_26082022.exe
