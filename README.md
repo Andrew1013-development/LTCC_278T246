@@ -3,7 +3,8 @@
 project folders and solution files for each exercise / practice (VS 2019 / VS 2022)
 
 ## the reason
-eviel may use this as his material to learn C (even though the 10th grade IT program will use Python lol)
+- eviel may use this as his material to learn C (even though the 10th grade IT program will use Python lol)
+- some kind of diary for me about this class
 
 ## naming convention
 - short : {designation}{number} (example: TH1 - practice No.1)
