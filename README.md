@@ -19,3 +19,4 @@ project folders and solution files for each exercise / practice (VS 2019 / VS 20
 - Friday, 26/8/2022 (B2) : BT2, BT3, BT4, BT5, BT6, BT7
 - Monday, 29/8/2022 (B3) : \\ *absent, data unavailable*
 - Wednesday, 31/8/2022 (B4) : 
+- Monday, 5/9/2022 : (B5) :
