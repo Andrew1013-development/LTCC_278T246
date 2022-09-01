@@ -1,0 +1,3 @@
+﻿  BT15_29082022.cpp
+E:\TRAN VIET HUY\BT15_29082022\BT15_29082022\BT15_29082022.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  BT15_29082022.vcxproj -> E:\TRAN VIET HUY\BT15_29082022\x64\Debug\BT15_29082022.exe
