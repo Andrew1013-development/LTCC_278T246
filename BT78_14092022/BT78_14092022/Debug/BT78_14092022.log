@@ -1,0 +1,4 @@
+﻿  BT78_14092022.cpp
+D:\TRAN VIET HUY\BT78_14092022\BT78_14092022\BT78_14092022.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\TRAN VIET HUY\BT78_14092022\BT78_14092022\BT78_14092022.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BT78_14092022.vcxproj -> D:\TRAN VIET HUY\BT78_14092022\Debug\BT78_14092022.exe
