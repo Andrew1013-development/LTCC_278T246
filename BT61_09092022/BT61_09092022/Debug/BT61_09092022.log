@@ -1,0 +1,5 @@
+﻿  BT61_09092022.cpp
+D:\TRAN VIET HUY\BT61_09092022\BT61_09092022\BT61_09092022.cpp(5,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\TRAN VIET HUY\BT61_09092022\BT61_09092022\BT61_09092022.cpp(15,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\TRAN VIET HUY\BT61_09092022\BT61_09092022\BT61_09092022.cpp(24,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  BT61_09092022.vcxproj -> D:\TRAN VIET HUY\BT61_09092022\Debug\BT61_09092022.exe

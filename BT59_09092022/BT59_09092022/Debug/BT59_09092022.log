@@ -1,4 +1,4 @@
 ﻿  BT59_09092022.cpp
-D:\TRAN VIET HUY\BT59_09092022\BT59_09092022\BT59_09092022.cpp(48,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
-D:\TRAN VIET HUY\BT59_09092022\BT59_09092022\BT59_09092022.cpp(46): warning C4715: 'prime_check2': not all control paths return a value
+D:\TRAN VIET HUY\BT59_09092022\BT59_09092022\BT59_09092022.cpp(47,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\TRAN VIET HUY\BT59_09092022\BT59_09092022\BT59_09092022.cpp(45): warning C4715: 'prime_check2': not all control paths return a value
   BT59_09092022.vcxproj -> D:\TRAN VIET HUY\BT59_09092022\Debug\BT59_09092022.exe
