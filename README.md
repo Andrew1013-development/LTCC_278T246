@@ -27,3 +27,6 @@ project folders and solution files for each exercise / practice (using Visual St
 - Friday, 16/9/2022 (B10) : BT87 -> BT92
 - Monday, 19/9/2022 (B11) : BT93
 - Wednesday, 21/9/2022 (B12) : BT94
+- Friday, 23/9/2022 (B13) : TH3
+- Monday, 26/9/2022 (B14) : TH4, BT95
+- Wednesday, 28/9/2022 (B15 - test) : ?
